@@ -1,0 +1,52 @@
+@prefix ns1: <https://schema.org/> .
+
+<https://schema.org/Product/books_prd1> ns1:caption "English Grammar Book, Written by Taufeek Khan and Published by Rajmangal Publishers." ;
+    ns1:description """
+This book on tenses is expected to be an asset to those entire students who want to improve the basics of English. Most of the books which are in circulation in the market do not have in-depth knowledge of tenses and therefore it makes students not getting concept of tenses clear in their mind. The most important part in this book is that all the tenses have been define in a very lucid way with separate examples. The book has been written keeping in mind about all the age groups, anyone can refer to the book and get their doubts cleared.
+""" ;
+    ns1:identifier "books_prd1" ;
+    ns1:price "$25.00" ;
+    ns1:title "Tenses For All" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011421.jpg" .
+
+<https://schema.org/Product/books_prd2> ns1:caption "Boardgame that lets you explore the Tundra arctic circle." ;
+    ns1:description """Does a Rabbit wear snow shoes?
+Not really, but the Snowshoe Rabbit gets its name from its rear feet, that look like snow shoes! Wolverines have been living in the Alaska even before the Marvel Comics character came on the scene. And, the Kamchatka Brown Bear loves fishing!
+Covered by snow all through the year, the Arctic region is home to rare animals, born to brave sub-zero temperatures. They get you points and make you the winner. Keep adding up the points - it even helps your Math scores! An eco-warrior in the making? This game is for you !""" ;
+    ns1:identifier "books_prd2" ;
+    ns1:price "$34.00" ;
+    ns1:title "Kaadoo -Grand Tundra-Arctic Circle Edition Board Game" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10031930.jpg" .
+
+<https://schema.org/Product/books_prd3> ns1:caption "Premium Edition Board game that lets you explore the vast outbacks of Australia, home to exciting and often unique animals." ;
+    ns1:description "A game board almost as big as 30 tiger pugmarks ! --Get your own safari jeep in green, yellow, blue or red --One dice that starts your safari and guides you through the jungle --100 game cards, 40+ wild animals, birds, reptiles --Play guide introduces you to the board, different types of cards and game rules. " ;
+    ns1:identifier "books_prd3" ;
+    ns1:price "$43.00" ;
+    ns1:title "Kaadoo Explore Wild Australia -The Land Down Under Board Game" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10021932.jpg" .
+
+<https://schema.org/Product/books_prd4> ns1:caption "An all-new African jungle safari board game from the KAADOO- PLAY & LEARN SERIES. Players advance by following the instructions on the card picked." ;
+    ns1:description "A simple game for the parent-at-home and the young one. Set out on a fun trek through the African jungle. On the way, you meet all sorts of animals. They would tell you where to go next: they want you to meet their friends and also leave the forest unharmed. Your guide animal will become your buddy, if it is wearing a belt of the same colour as the mud on your jungle trail !. Make friends with more animals as you explore the jungle. Your dad or mom can even google and tell you more about your buddies!" ;
+    ns1:identifier "books_prd4" ;
+    ns1:price "$41.00" ;
+    ns1:title "Kaadoo Animal Buddy-Africa Edition Board Game" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10041949.jpg" .
+
+<https://schema.org/Product/books_prd5> ns1:caption "STUDENTS to revise & remember the chapter for longer period of time." ;
+    ns1:description """MIND MAPPING AND VIDEO BASED LEARNING BY LKKN WITH ONE SCAN.
+STUDENTS to revise & remember the chapter for longer period of time.
+ONE CHAPTER IN ONE PAGE""" ;
+    ns1:identifier "books_prd5" ;
+    ns1:price "$19.00" ;
+    ns1:title "8th MIND MAPPING PHYSICAL SCIENCE" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10001999.jpg" .
+
+<https://schema.org/Product/books_prd6> ns1:caption "An all-new Indian jungle safari board game from the KAADOO- PLAY & LEARN SERIES. Players advance by following the instructions on the card picked." ;
+    ns1:description """
+
+A simple game for the parent-at-home and the young one. Set out on a fun trek through the dense tropical jungles of India !. On the way, you meet all sorts of animals. They would tell you where to go next: they want you to meet their friends and also leave the forest unharmed. Your guide animal will become your buddy, if it is wearing a belt of the same colour as the mud on your jungle trail ! Make friends with more animals as you explore the jungle. Your dad or mom can even google and tell you more about your buddies!""" ;
+    ns1:identifier "books_prd6" ;
+    ns1:price "$55.00" ;
+    ns1:title "Kaadoo Animal Buddy-India Edition Board Game" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10021938.jpg" .
+

@@ -17,8 +17,9 @@ def index(request):
     product = Namespace("https://schema.org/Product/")
 
     # create graph for index page
+    
     x = Graph()
-    x.parse("index.ttl", format="turtle")
+    x.parse("edumart/frontend/storedData/index.ttl", format="turtle")
 
     q1 = sparql.prepareQuery(
         """SELECT ?identifier ?title ?caption ?imageUrl
@@ -71,12 +72,12 @@ def cart(request):
 def detail(request, product_id):
     s = Namespace("https://schema.org/")
 
-    accessories = Graph().parse("accessories.ttl", format="turtle")
-    books = Graph().parse("books.ttl", format="turtle")
-    furniture = Graph().parse("furniture.ttl", format="turtle")
-    teaching_n_learning = Graph().parse("teaching_n_learning.ttl", format="turtle")
-    toys_n_sports = Graph().parse("toys_n_sports.ttl", format="turtle")
-    stationary = Graph().parse("stationary.ttl", format="turtle")
+    accessories = Graph().parse("edumart/frontend/storedData/accessories.ttl", format="turtle")
+    books = Graph().parse("edumart/frontend/storedData/books.ttl", format="turtle")
+    furniture = Graph().parse("edumart/frontend/storedData/furniture.ttl", format="turtle")
+    teaching_n_learning = Graph().parse("edumart/frontend/storedData/teaching_n_learning.ttl", format="turtle")
+    toys_n_sports = Graph().parse("edumart/frontend/storedData/toys_n_sports.ttl", format="turtle")
+    stationary = Graph().parse("edumart/frontend/storedData/stationary.ttl", format="turtle")
 
     products = accessories + books + furniture + \
         teaching_n_learning + toys_n_sports + stationary
@@ -117,12 +118,12 @@ def checkout(request):
 def shop(request):
     s = Namespace("https://schema.org/")
 
-    accessories = Graph().parse("accessories.ttl", format="turtle")
-    books = Graph().parse("books.ttl", format="turtle")
-    furniture = Graph().parse("furniture.ttl", format="turtle")
-    teaching_n_learning = Graph().parse("teaching_n_learning.ttl", format="turtle")
-    toys_n_sports = Graph().parse("toys_n_sports.ttl", format="turtle")
-    stationary = Graph().parse("stationary.ttl", format="turtle")
+    accessories = Graph().parse("edumart/frontend/storedData/accessories.ttl", format="turtle")
+    books = Graph().parse("edumart/frontend/storedData/books.ttl", format="turtle")
+    furniture = Graph().parse("edumart/frontend/storedData/furniture.ttl", format="turtle")
+    teaching_n_learning = Graph().parse("edumart/frontend/storedData/teaching_n_learning.ttl", format="turtle")
+    toys_n_sports = Graph().parse("edumart/frontend/storedData/toys_n_sports.ttl", format="turtle")
+    stationary = Graph().parse("edumart/frontend/storedData/stationary.ttl", format="turtle")
 
     products = accessories + books + furniture + \
         teaching_n_learning + toys_n_sports + stationary
@@ -152,20 +153,20 @@ def shop_specific(request, category):
 
     products = Graph()
     if (category == "furniture"):
-        products.parse("furniture.ttl", format="turtle")
+        products.parse("edumart/frontend/storedData/furniture.ttl", format="turtle")
     elif (category == "books"):
-        products.parse("books.ttl", format="turtle")
+        products.parse("edumart/frontend/storedData/books.ttl", format="turtle")
     elif (category == "accessories"):
-        products.parse("accessories.ttl", format="turtle")
+        products.parse("edumart/frontend/storedData/accessories.ttl", format="turtle")
     elif (category == "stationary"):
-        products.parse("stationary.ttl", format="turtle")
+        products.parse("edumart/frontend/storedData/stationary.ttl", format="turtle")
     elif (category == "teaching_n_learning"):
-        products.parse("teaching_n_learning.ttl", format="turtle")
+        products.parse("edumart/frontend/storedData/teaching_n_learning.ttl", format="turtle")
     elif (category == "toys_n_sports"):
-        products.parse("toys_n_sports.ttl", format="turtle")
+        products.parse("edumart/frontend/storedData/toys_n_sports.ttl", format="turtle")
 
     x = Graph()
-    x.parse("index.ttl", format="turtle")
+    x.parse("edumart/frontend/storedData/index.ttl", format="turtle")
 
     q1 = sparql.prepareQuery(
         """SELECT ?title ?caption

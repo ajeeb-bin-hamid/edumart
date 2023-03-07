@@ -1,0 +1,54 @@
+@prefix ns1: <https://schema.org/> .
+
+<https://schema.org/Product/toys_n_sports_prd1> ns1:caption "Enjoy tracing capital alphabet on wooden engraved boards with dummy pencil made from plastic. Enhancing finger grip to hold pencil and wrist agility by moving pencil on engraved shapes of letters" ;
+    ns1:description "Enjoy tracing capital alphabet on wooden engraved boards with dummy pencil made from plastic. Enhancing finger grip to hold pencil and wrist agility by moving pencil on engraved shapes of letters " ;
+    ns1:identifier "toys_n_sports_prd1" ;
+    ns1:price "$75.00" ;
+    ns1:title "Tracing Small Letter" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011273.jpg" .
+
+<https://schema.org/Product/toys_n_sports_prd2> ns1:caption "Fun and fitness for kids weight bench promotes a healthy activity based lifestyle. It features a weight bench that allows your little one to perform bench presses, leg curls, and leg lifts with weights appropriate for their age and size. These three fundamental exercises provide a strong foundation for any exercise routine!" ;
+    ns1:description "Fun and fitness for kids weight bench promotes a healthy activity based lifestyle. It features a weight bench that allows your little one to perform bench presses, leg curls, and leg lifts with weights appropriate for their age and size. These three fundamental exercises provide a strong foundation for any exercise routine!" ;
+    ns1:identifier "toys_n_sports_prd2" ;
+    ns1:price "$99.00" ;
+    ns1:title "Fun And Fitness Exercise Equipment For Kids - Weight Bench Press" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0021132.jpg" .
+
+<https://schema.org/Product/toys_n_sports_prd3> ns1:caption "Non-motorized children's' stationary bike; Safe and reliable 'no tip' design; Easy to assemble - tools included; Recommended for ages 3 to 6" ;
+    ns1:description "Non-motorized children's' stationary bike; Safe and reliable 'no tip' design; Easy to assemble - tools included; Recommended for ages 3 to 6 " ;
+    ns1:identifier "toys_n_sports_prd3" ;
+    ns1:price "$89.00" ;
+    ns1:title "Single Arm Rowing" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011135.jpg" .
+
+<https://schema.org/Product/toys_n_sports_prd4> ns1:caption "Indoor Outdoor Engineering play house can be an independent toy for kids, and it can be a part of the indoor/outdoor playground." ;
+    ns1:description """Suitable For: Pre-school, Restaurant, Amusement Park, Super Market, etc.
+1. Comes in Multicolour
+2. Permanently secured to the base
+3. Handlebars are fitted in place""" ;
+    ns1:identifier "toys_n_sports_prd4" ;
+    ns1:price "$249.00" ;
+    ns1:title "Merry Go Round" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011144.jpg" .
+
+<https://schema.org/Product/toys_n_sports_prd5> ns1:caption "Indoor Outdoor Engineering play house can be an independent toy for kids, and it can be a part of the indoor/outdoor playground." ;
+    ns1:description """Suitable For: Pre-school, Restaurant, Amusement Park, Super Market, etc.
+1. Comes in Multicolour
+2. Permanently secured to the base
+3. Handlebars are fitted in place""" ;
+    ns1:identifier "toys_n_sports_prd5" ;
+    ns1:price "$7600.00" ;
+    ns1:title "Spiral Slide" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011157.jpg" .
+
+<https://schema.org/Product/toys_n_sports_prd6> ns1:caption "This brand new Mini Stepper is a kid-specific sporting equipment to get kids active & healthy, it's comfortable and ergonomically designed for children to make exercise fun, and it improves heart health and builds leg & calf muscles. A fun and healthy present for your kids!" ;
+    ns1:description """his brand new Mini Stepper is a kid-specific sporting equipment to get kids active & healthy, it's comfortable and ergonomically designed for children to make exercise fun.
+Steel frame construction, and is powder coated in bright vibrant colours
+Soft foam-grip handles
+LCD fitness monitor to show time, distance and energy used. Monitor uses 1 AAA battery (Not Included).
+Non-Slip Footplates""" ;
+    ns1:identifier "toys_n_sports_prd6" ;
+    ns1:price "$799.00" ;
+    ns1:title "Paddler Kids Gym Equipment" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011159.jpg" .
+

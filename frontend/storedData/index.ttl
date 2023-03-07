@@ -1,0 +1,103 @@
+@prefix ns1: <https://schema.org/> .
+@prefix ns2: <http://purl.org/goodrelations/v1#> .
+
+<https://schema.org/Product/trendy_prd1> ns1:caption "An all-new African jungle safari board game from the KAADOO- PLAY & LEARN SERIES. Players advance by following the instructions on the card picked." ;
+    ns1:description "A simple game for the parent-at-home and the young one. Set out on a fun trek through the African jungle. On the way, you meet all sorts of animals. They would tell you where to go next: they want you to meet their friends and also leave the forest unharmed. Your guide animal will become your buddy, if it is wearing a belt of the same colour as the mud on your jungle trail !. Make friends with more animals as you explore the jungle. Your dad or mom can even google and tell you more about your buddies!" ;
+    ns1:identifier "teaching_n_learning_prd1" ;
+    ns1:price "$19.00" ;
+    ns1:title "Kaadoo Animal Buddy-Africa Edition Board Game" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10011949.jpg" .
+
+<https://schema.org/Product/trendy_prd2> ns1:caption "Sold and fulfilled : Kidken" ;
+    ns1:description " Best quality Geometrical cabinet from edumart. Free shpment throughout India. 24*7 Customer service available. 7 days return policy is applicable " ;
+    ns1:identifier "teaching_n_learning_prd2" ;
+    ns1:price "$29.00" ;
+    ns1:title "Geometrical Cabinet - BRSquare Plastic Activity Table For Kids" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0012135.jpg" .
+
+<https://schema.org/Product/trendy_prd3> ns1:caption "Enjoy tracing capital alphabet on wooden engraved boards with dummy pencil made from plastic. Enhancing finger grip to hold pencil and wrist agility by moving pencil on engraved shapes of letters" ;
+    ns1:description "Enjoy tracing capital alphabet on wooden engraved boards with dummy pencil made from plastic. Enhancing finger grip to hold pencil and wrist agility by moving pencil on engraved shapes of letters " ;
+    ns1:identifier "toys_n_sports_prd1" ;
+    ns1:price "$75.00" ;
+    ns1:title "Tracing Small Letter" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011273.jpg" .
+
+<https://schema.org/Product/trendy_prd4> ns1:caption "Rugged, fanless, solid steel build to survive high heat, dust and harsh working conditions.Linux based Thin Client OS - developed by ICTS as per the requirements of Indian customers. OS supported with Linux / Windows XP / Windows 7 .DDR3 512 MB memory and 4 GB NAND flash soldered onboard .Dual Mode Display HDMI/VGA." ;
+    ns1:description "This powerful, low cost, low maintenance and a rugged thin client are designed and manufactured in India by ICTS as per Indian conditions and usage. Weighing 200 grams, it consumes less than 5 watts of electricity. Its powerful dual-core A20 processor can seamlessly connect to Windows and Linux servers using the RDP protocol. It supports USB printers, USB barcode scanners, and has a mini web browser built in." ;
+    ns1:identifier "accessories_prd1" ;
+    ns1:price "$1189.00" ;
+    ns1:title "Icts Thin Client Fl-100" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011028.png" .
+
+<https://schema.org/Product/trendy_prd5> ns1:caption "Vehicle tracking solution for Fleet, Personal tracking solution ,complete end-to-end tracking solution for School children" ;
+    ns1:description "100% Indigeneous. We will provide 2.5 meter accuracy, 2% odo meter deviation .Track on the Go" ;
+    ns1:identifier "accessories_prd2" ;
+    ns1:price "$569.00" ;
+    ns1:title "Gps Vehicle Tracking System" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0041264.jpg" .
+
+<https://schema.org/Product/trendy_prd6> ns1:caption "Intel Core i3 4th Gen 3.40 GHz .4th Gen 3.40 GHz .4 GB RAM DDR3 .500 GB HDD (Expandable up to 2 TB) .Intel® HD Graphics, support VGA, HDMI display interface" ;
+    ns1:description "Intel Core i3 4th Gen 3.40 GHz, 4 GB DDR3 RAM, Intel® HD Graphics, support VGA, HDMI display interface, 500 GB (Expandable up to 2 TB). COMPLETE 3 YEAR WARRANTY ON DEVICE and ADAPTOR. Free Installation charges 1 time ( and 2nd-time charges applicable )" ;
+    ns1:identifier "accessories_prd3" ;
+    ns1:price "$2199.00" ;
+    ns1:title "Icts Desktop Pc Ds-300" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011035.png" .
+
+<https://schema.org/Product/trendy_prd7> ns1:caption "VGA cable measuring 15 meters" ;
+    ns1:description """Sold and fulfilled 	: Sanghavi Impex ( No Rating Yet )
+Brand 	: Others
+Minimum Order 	: 1
+Colour 	: White
+Dimension 	: 15mts""" ;
+    ns1:identifier "accessories_prd4" ;
+    ns1:price "$19.00" ;
+    ns1:title "Vga Cable 15mts" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011323.jpg" .
+
+<https://schema.org/Product/trendy_prd8> ns1:caption "Used to mount projectors" ;
+    ns1:description """Sold and fulfilled 	: Sanghavi Impex ( No Rating Yet )
+Brand 	: Others
+Minimum Order 	: 1
+Colour 	: White""" ;
+    ns1:identifier "accessories_prd5" ;
+    ns1:price "$3999.00" ;
+    ns1:title "Ceiling Mount" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011322.jpg" .
+
+<https://schema.org/category/popular> ns2:includes <https://schema.org/category/accessories>,
+        <https://schema.org/category/books>,
+        <https://schema.org/category/furniture>,
+        <https://schema.org/category/stationary>,
+        <https://schema.org/category/teaching_n_learning>,
+        <https://schema.org/category/toys_n_sports> .
+
+<https://schema.org/category/accessories> ns1:caption "Accessories to improve productivity" ;
+    ns1:identifier "accessories" ;
+    ns1:title "Accessories" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011326.jpg" .
+
+<https://schema.org/category/books> ns1:caption "Fine grained books for everyone" ;
+    ns1:identifier "books" ;
+    ns1:title "Books" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10001949.jpg" .
+
+<https://schema.org/category/furniture> ns1:caption "High quality furniture for everyone" ;
+    ns1:identifier "furniture" ;
+    ns1:title "Furniture" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011222.gif" .
+
+<https://schema.org/category/stationary> ns1:caption "Best in class stationary products" ;
+    ns1:identifier "stationary" ;
+    ns1:title "Stationary" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_000856.jpg" .
+
+<https://schema.org/category/teaching_n_learning> ns1:caption "Best in class teaching materials" ;
+    ns1:identifier "teaching_n_learning" ;
+    ns1:title "Teaching & Learning" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_000862.jpg" .
+
+<https://schema.org/category/toys_n_sports> ns1:caption "Make learning playful with amazing toys" ;
+    ns1:identifier "toys_n_sports" ;
+    ns1:title "Toys & Sports" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011126.jpg" .
+

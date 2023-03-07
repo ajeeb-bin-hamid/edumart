@@ -1,0 +1,51 @@
+@prefix ns1: <https://schema.org/> .
+
+<https://schema.org/Product/furniture_prd1> ns1:caption "Strong and Durable Table. Fully moulded plastic. Non-Toxic. Weather resistant. Waterproof. Can be used indoors and outdoors." ;
+    ns1:description """-Red rectangle plastic table for kids
+-Seats up to six children ages two and up
+-Can be used for studying or any activity
+-Made of Durable Plastic which can be used both Indoors and Outdoors under shade.
+-Ideal for preschools and homes """ ;
+    ns1:identifier "furniture_prd1" ;
+    ns1:price "$29.00" ;
+    ns1:title "Rectangle Table (Without Chairs) Green" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10021112.jpg" .
+
+<https://schema.org/Product/furniture_prd2> ns1:caption "Plastic Bed Corner with tube and net cloth, with safe, durable, non-toxic, light, comfortable for the kids 3+ years and weighing < 50 kgs." ;
+    ns1:description """Suitable age: 3+, weight<50kgs
+Material: Plastic Bed Corner + Tube + Net Cloth
+Advantage: Safe, durable, nontoxic, light, comfortable
+Design checker blue and plain blue. """ ;
+    ns1:identifier "furniture_prd2" ;
+    ns1:price "$49.00" ;
+    ns1:title "Childrens Cot" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10011113.jpg" .
+
+<https://schema.org/Product/furniture_prd3> ns1:caption "Plastic Bench for classrooms" ;
+    ns1:description "Plastic Bench for classrooms" ;
+    ns1:identifier "furniture_prd3" ;
+    ns1:price "$34.00" ;
+    ns1:title "Plastic Bench" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011478.jpg" .
+
+<https://schema.org/Product/furniture_prd4> ns1:caption "Storage Shelf Open - SHELFIE (L-4ft, W-1ft, H-2ft). Available in different colours." ;
+    ns1:description "Storage Shelf Open - SHELFIE (L-4ft, W-1ft, H-2ft). Available in different colours." ;
+    ns1:identifier "furniture_prd4" ;
+    ns1:price "$99.00" ;
+    ns1:title "Storage Shelf Open Shelfie" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011645.jpg" .
+
+<https://schema.org/Product/furniture_prd5> ns1:caption "Available in multiple colors without chairs. Chairs available separately." ;
+    ns1:description "Available in multiple colors without chairs. Chairs available separately. " ;
+    ns1:identifier "furniture_prd5" ;
+    ns1:price "$45.00" ;
+    ns1:title "Big Rectangle Table" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011447.gif" .
+
+<https://schema.org/Product/furniture_prd6> ns1:caption "Blue coloured high quality table for students" ;
+    ns1:description "Blue coloured high quality table for students" ;
+    ns1:identifier "furniture_prd6" ;
+    ns1:price "$128.00" ;
+    ns1:title "Genious Double Seater" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011227.gif" .
+

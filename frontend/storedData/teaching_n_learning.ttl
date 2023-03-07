@@ -1,0 +1,45 @@
+@prefix ns1: <https://schema.org/> .
+
+<https://schema.org/Product/teaching_n_learning_prd1> ns1:caption "An all-new African jungle safari board game from the KAADOO- PLAY & LEARN SERIES. Players advance by following the instructions on the card picked." ;
+    ns1:description "A simple game for the parent-at-home and the young one. Set out on a fun trek through the African jungle. On the way, you meet all sorts of animals. They would tell you where to go next: they want you to meet their friends and also leave the forest unharmed. Your guide animal will become your buddy, if it is wearing a belt of the same colour as the mud on your jungle trail !. Make friends with more animals as you explore the jungle. Your dad or mom can even google and tell you more about your buddies!" ;
+    ns1:identifier "teaching_n_learning_prd1" ;
+    ns1:price "$19.00" ;
+    ns1:title "Kaadoo Animal Buddy-Africa Edition Board Game" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_10011949.jpg" .
+
+<https://schema.org/Product/teaching_n_learning_prd2> ns1:caption "Sold and fulfilled : Kidken" ;
+    ns1:description " Best quality Geometrical cabinet from edumart. Free shpment throughout India. 24*7 Customer service available. 7 days return policy is applicable " ;
+    ns1:identifier "teaching_n_learning_prd2" ;
+    ns1:price "$29.00" ;
+    ns1:title "Geometrical Cabinet - BRSquare Plastic Activity Table For Kids" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0012135.jpg" .
+
+<https://schema.org/Product/teaching_n_learning_prd3> ns1:caption "This material provides the infant with experiences of object permanence. A child has to drop the ball into the hole in the box and the ball will roll out of the box and into the tray. Through this, the child experiences object permanence by seeing that the ball did not disappear. It also allows the child to develop hand-eye coordination." ;
+    ns1:description "Toddler Imbucare Box with Ball – This material provides the infant with experiences of object permanence. A child has to drop the ball into the hole in the box and the ball will roll out of the box and into the tray. Through this, the child experiences object permanence by seeing that the ball did not disappear. It also allows the child to develop hand-eye coordination." ;
+    ns1:identifier "teaching_n_learning_prd3" ;
+    ns1:price "$49.00" ;
+    ns1:title "Toddler Imbucare Box With Ball" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011178.jpg" .
+
+<https://schema.org/Product/teaching_n_learning_prd4> ns1:caption "Map Puzzle India is a printed map of the country of India with all its states depicted on it. Used for control of error when used along with the India puzzle map.To iuse as a control of error when used with Puzzle Map" ;
+    ns1:description """A printed map of the country of India with all its states depicted on it. Used for control of error when used along with the India puzzle map
+To iuse as a control of error when used with Puzzle Map""" ;
+    ns1:identifier "teaching_n_learning_prd4" ;
+    ns1:price "$39.00" ;
+    ns1:title "Map Puzzle: India" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011180.jpg" .
+
+<https://schema.org/Product/teaching_n_learning_prd5> ns1:caption "This material provides the infant with experiences of object permanence. A child has to drop the ball into the hole in the box and the ball will roll out of the box and into the tray. Through this, the child experiences object permanence by seeing that the ball did not disappear. It also allows the child to develop hand-eye coordination." ;
+    ns1:description "Object Permanence Box with Tray – This material provides the infant with experiences of object permanence. A child has to drop the ball into the hole in the box and the ball will roll out of the box and into the tray. Through this, the child experiences object permanence by seeing that the ball did not disappear. It also allows the child to develop hand-eye coordination." ;
+    ns1:identifier "teaching_n_learning_prd5" ;
+    ns1:price "$67.00" ;
+    ns1:title "Object Permanence Box With Tray" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011186.jpg" .
+
+<https://schema.org/Product/teaching_n_learning_prd6> ns1:caption "Material consists of One small plastic bowl, Sieving set to introduce the child to practical life concepts." ;
+    ns1:description "Material consists of One small plastic bowl, Sieving set to introduce the child to practical life concepts." ;
+    ns1:identifier "teaching_n_learning_prd6" ;
+    ns1:price "$15.00" ;
+    ns1:title "Sieving Set" ;
+    ns1:url "https://www.schoolsupermart.com/media/product_image/p_0011202.jpg" .
+
